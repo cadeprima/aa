@@ -1,12 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBYRP8x5WpLy7re-AYRYwudOwSDUGjKkgQ",
-  authDomain: "soutaxi-com.firebaseapp.com",
-  databaseURL: "https://soutaxi-com-default-rtdb.firebaseio.com",
-  projectId: "soutaxi-com",
-  storageBucket: "soutaxi-com.appspot.com",
-  messagingSenderId: "773924123770",
-  appId: "1:773924123770:web:72b9fafa26c2ab9db8b7c3",
-  measurementId: "G-LDX7SY377J"
+  apiKey: "AIzaSyAXWzJkAvZfSnkhJoYeooXVX4qoW0jvyWI",
+  authDomain: "cadeprima-d86ad.firebaseapp.com",
+  databaseURL: "https://cadeprima-d86ad-default-rtdb.firebaseio.com",
+  projectId: "cadeprima-d86ad",
+  storageBucket: "cadeprima-d86ad.firebasestorage.app",
+  messagingSenderId: "31857695670",
+  appId: "1:31857695670:web:6222da2148493ecb453f17"
 };
 
 firebase.initializeApp(firebaseConfig);
